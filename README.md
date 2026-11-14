@@ -2,7 +2,8 @@
 
 A single-page website that replays the last 7 days of Earth-observation satellite orbits over any place on Earth. It then finds the public Sentinel-2 and Landsat photos those satellites took of that spot.
 
-Everything is in one file, `index.html`. There are no build tools and no API keys: open it in Chrome and search for a place.
+Here's the github link to access this website:
+https://prashantjangir-git-hub.github.io/satellite-pass-replay
 
 ## What it does
 
