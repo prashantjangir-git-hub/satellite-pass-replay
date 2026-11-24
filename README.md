@@ -31,4 +31,4 @@ A single-page website that replays the last 7 days of Earth-observation satellit
 Statuses are estimates. "Likely watched" means an imaging satellite flew close by in daylight. It doesn't mean it took a picture.
 
 ## Author
-Prashant Jangir
+made wuth ❤️ by Prashant Jangir
