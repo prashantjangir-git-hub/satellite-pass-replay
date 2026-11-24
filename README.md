@@ -28,4 +28,7 @@ A single-page website that replays the last 7 days of Earth-observation satellit
 - Map tiles: © Esri, HERE, Garmin, OpenStreetMap contributors
 - Libraries: [Leaflet](https://leafletjs.com), [satellite.js](https://github.com/shashwatak/satellite-js)
 
+## Author
+Prashant Jangir
+
 Statuses are estimates. "Likely watched" means an imaging satellite flew close by in daylight. It doesn't mean it took a picture.
