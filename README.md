@@ -1,9 +1,14 @@
+<h1 align="center">Satellite Pass Replay</h1>
+
 # Who's been flying over your place?
 
 A single-page website that replays the last 7 days of Earth-observation satellite orbits over any place on Earth. It then finds the public Sentinel-2 and Landsat photos those satellites took of that spot.
 
-<a href="https://prashantjangir-git-hub.github.io/satellite-pass-replay" target="_blank" rel="noopener noreferrer">Click here</a>  to visit the website.
-
+<p align="center">
+  <a href="https://prashantjangir-git-hub.github.io/satellite-pass-replay">
+    <img src="https://img.shields.io/badge/🛰️_LAUNCH_SATELLITE_REPLAY-6C63FF?style=for-the-badge&labelColor=161B22&logoColor=white" height="65" />
+  </a>
+</p>
 
 ## What it does
 
